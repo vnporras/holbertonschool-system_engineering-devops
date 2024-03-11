@@ -39,9 +39,9 @@ This project focuses on designing various web infrastructure setups to understan
     1 set of application files (your code base)
     1 database (MySQL)
 
-### Diagram
+### Graphic
 
-<img src="" alt="App Screenshot" width="800">
+<img src="https://github.com/vnporras/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/img/2.png" alt="App Screenshot" width="800">
 
 ### 2. Secured and monitored web infrastructure
 
@@ -55,7 +55,7 @@ This project focuses on designing various web infrastructure setups to understan
 
 ### Graphic
 
-<img src="" alt="App Screenshot" width="800">
+<img src="https://github.com/vnporras/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/img/3.png" alt="App Screenshot" width="800">
 
 ### 3. Scale up
 
@@ -67,7 +67,7 @@ This project focuses on designing various web infrastructure setups to understan
 
 ### Graphic
 
-<img src="" alt="App Screenshot" width="800">
+<img src="https://github.com/vnporras/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/img/4.png" alt="App Screenshot" width="800">
 
 ## Authors
 
